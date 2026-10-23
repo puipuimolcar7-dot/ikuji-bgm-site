@@ -1,0 +1,746 @@
+{
+ "schemaVersion": 1,
+ "updatedAt": "2026-10-23T09:00:00Z",
+ "tracks": {
+  "cry": [
+   {
+    "id": "rrlAn7KEwns",
+    "title": "はじまりぷしゅ（くり返し・広告なし）",
+    "channel": "シナぷしゅ公式",
+    "kind": "ja",
+    "minutes": 32
+   },
+   {
+    "id": "s_f1gyCq09Y",
+    "title": "タケモトピアノのCM（AIダンス もっともっと篇）",
+    "channel": "タケモトピアノ公式",
+    "kind": "ja",
+    "minutes": 0.25
+   },
+   {
+    "id": "oewj_XEM1js",
+    "title": "ホワイトノイズ（10時間・海外で定番）",
+    "channel": "Relaxing White Noise",
+    "kind": "sound",
+    "minutes": 600
+   },
+   {
+    "id": "WMqv5l2LQwo",
+    "title": "ホワイトノイズ（3時間・途中広告なし）",
+    "channel": "のんびりタイム BGM",
+    "kind": "sound",
+    "minutes": 180
+   },
+   {
+    "id": "J4z4J5oWMKU",
+    "title": "ホワイトノイズの音（60分）",
+    "channel": "東京法規出版",
+    "kind": "sound",
+    "minutes": 60
+   },
+   {
+    "id": "QLxHzw8c1tE",
+    "title": "胎内音（1時間・途中広告なし）",
+    "channel": "Relaxing Baby Lullaby Music",
+    "kind": "sound",
+    "minutes": 60
+   },
+   {
+    "id": "F8n_xYxZcaI",
+    "title": "胎内音・ノイズなし（8時間）",
+    "channel": "TOKYO NEIRO BGM",
+    "kind": "sound",
+    "minutes": 480
+   },
+   {
+    "id": "e0JqEhgyt1Q",
+    "title": "胎内音＋ホワイトノイズ（8時間・黒画面）",
+    "channel": "TOKYO NEIRO BGM",
+    "kind": "sound",
+    "minutes": 480
+   },
+   {
+    "id": "jAOW8-u1Xh8",
+    "title": "Womb Sounds 胎内音（10時間）",
+    "channel": "sleep-o-phant",
+    "kind": "sound",
+    "minutes": 600
+   },
+   {
+    "id": "C6aq2onBHco",
+    "title": "ママの心音（1時間）",
+    "channel": "Lulanko",
+    "kind": "sound",
+    "minutes": 66
+   },
+   {
+    "id": "FEFzYY8bmw0",
+    "title": "シーッ音＋ホワイトノイズ（1時間）",
+    "channel": "Relax Baby - DEEP SLEEP",
+    "kind": "sound",
+    "minutes": 60
+   },
+   {
+    "id": "L3ssnLHtdv4",
+    "title": "ドライヤーの音（60分）",
+    "channel": "東京法規出版",
+    "kind": "sound",
+    "minutes": 60
+   },
+   {
+    "id": "7qnVt4I3fOY",
+    "title": "ビニール袋のカサカサ音（4時間・広告なし）",
+    "channel": "Xわが命TV",
+    "kind": "sound",
+    "minutes": 240
+   }
+  ],
+  "sleep": [
+   {
+    "id": "035d3iiFej4",
+    "title": "ねかしつけ専用BGM（2.5時間）",
+    "channel": "シナぷしゅ公式",
+    "kind": "sound",
+    "minutes": 150
+   },
+   {
+    "id": "6W7TUq-IvVA",
+    "title": "ゆりかごのうた オルゴール（1時間・途中広告なし）",
+    "channel": "はるるんちゃんねる",
+    "kind": "sound",
+    "minutes": 61
+   },
+   {
+    "id": "UWoLmmlA8vI",
+    "title": "ゆりかごのうた オルゴール＋水の音（60分）",
+    "channel": "リルピー Little PICTURE",
+    "kind": "sound",
+    "minutes": 64
+   },
+   {
+    "id": "yIVaUApUDcA",
+    "title": "モーツァルトの子守唄 オルゴール（1時間）",
+    "channel": "はるるんちゃんねる",
+    "kind": "sound",
+    "minutes": 61
+   },
+   {
+    "id": "VgLcGB2jlvI",
+    "title": "ゆりかごのうた 歌つき（120分・途中広告なし）",
+    "channel": "クマーバチャンネル",
+    "kind": "ja",
+    "minutes": 121
+   },
+   {
+    "id": "miS5R5X82oM",
+    "title": "シューベルトの子守唄 オルゴール＋波の音",
+    "channel": "Naoki Kanekura",
+    "kind": "sound",
+    "minutes": 161
+   },
+   {
+    "id": "xvDDjL317xM",
+    "title": "おやすみモーツァルト（クラシック名曲メドレー）",
+    "channel": "ナクソス・ジャパン",
+    "kind": "sound",
+    "minutes": 84
+   },
+   {
+    "id": "44tiZ7IP7zA",
+    "title": "モーツァルト＆ブラームスの子守歌（24時間）",
+    "channel": "Baby Relax Channel",
+    "kind": "sound",
+    "minutes": 1440
+   },
+   {
+    "id": "W-vBu2rf8TI",
+    "title": "Bedtime Lullaby やさしい子守歌（2時間）",
+    "channel": "Wonderful Lullabies",
+    "kind": "sound",
+    "minutes": 119
+   },
+   {
+    "id": "2SmUkXtQIPc",
+    "title": "Lullaby for Babies 子守歌（8時間）",
+    "channel": "Best Baby Lullabies",
+    "kind": "sound",
+    "minutes": 524
+   },
+   {
+    "id": "RIJ4MTjQfFo",
+    "title": "Best Bedtime Songs 英語の子守唄メドレー",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 38
+   },
+   {
+    "id": "jWUx3s_kxv0",
+    "title": "Twinkle Twinkle Little Star（30分）",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 30
+   },
+   {
+    "id": "muzJX0reKIU",
+    "title": "やさしい雨音（10時間・黒画面）",
+    "channel": "熟睡BGM",
+    "kind": "sound",
+    "minutes": 600
+   },
+   {
+    "id": "EpB_11v_-Ag",
+    "title": "雨の音（60分）",
+    "channel": "東京法規出版",
+    "kind": "sound",
+    "minutes": 60
+   },
+   {
+    "id": "eTeD8DAta4c",
+    "title": "Relaxing Rain Sounds 雨音（10時間）",
+    "channel": "Relaxing White Noise",
+    "kind": "sound",
+    "minutes": 600
+   }
+  ],
+  "mood": [
+   {
+    "id": "oCN0VZgoGTI",
+    "title": "シナぷしゅ もりだくさんスペシャル",
+    "channel": "シナぷしゅ公式",
+    "kind": "ja",
+    "minutes": 34
+   },
+   {
+    "id": "RGrkmj5Cznk",
+    "title": "どてっ まとめ",
+    "channel": "シナぷしゅ公式",
+    "kind": "ja",
+    "minutes": 5
+   },
+   {
+    "id": "4xSsKo8r_s4",
+    "title": "絵本『もいもい』読みきかせ",
+    "channel": "シナぷしゅ公式",
+    "kind": "ja",
+    "minutes": 111
+   },
+   {
+    "id": "REtbaAA4j7U",
+    "title": "あかちゃんえほん にこにこ（うた動画）",
+    "channel": "KADOKAWA児童図書",
+    "kind": "ja",
+    "minutes": 1
+   },
+   {
+    "id": "1-9HF-urfvc",
+    "title": "とんとんトマトちゃん",
+    "channel": "うたスタ",
+    "kind": "ja",
+    "minutes": 2
+   },
+   {
+    "id": "lZRNUvDOzmY",
+    "title": "ハッピー・ジャムジャム",
+    "channel": "しまじろうチャンネル公式",
+    "kind": "ja",
+    "minutes": 2
+   },
+   {
+    "id": "Oj62PMMT4Bk",
+    "title": "童謡メドレー 20曲ノンストップ",
+    "channel": "横山だいすけチャンネル",
+    "kind": "ja",
+    "minutes": 28
+   },
+   {
+    "id": "35EwCOUjgzY",
+    "title": "楽しい童謡・唱歌メドレー（60分37曲）",
+    "channel": "リルピー Little PICTURE",
+    "kind": "ja",
+    "minutes": 60
+   },
+   {
+    "id": "ULTpMnEbfpY",
+    "title": "かずのドーナツやさん＆人気童謡まとめ",
+    "channel": "BabyBus ベビーバス",
+    "kind": "ja",
+    "minutes": 85
+   },
+   {
+    "id": "XqZsoesa55w",
+    "title": "Baby Shark Dance",
+    "channel": "Pinkfong",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "LrAtBtQnvCE",
+    "title": "Five Little Ducks ほか 英語の童謡メドレー",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 70
+   },
+   {
+    "id": "qXcMNBQnQMM",
+    "title": "CoComelon 人気曲メドレー",
+    "channel": "Cocomelon",
+    "kind": "en",
+    "minutes": 58
+   }
+  ],
+  "meal": [
+   {
+    "id": "InLIo3KMJOs",
+    "title": "マンマのうた",
+    "channel": "シナぷしゅ公式",
+    "kind": "ja",
+    "minutes": 2
+   },
+   {
+    "id": "QirBumX43R8",
+    "title": "あかちゃんえほん もぐもぐ（うた動画）",
+    "channel": "KADOKAWA児童図書",
+    "kind": "ja",
+    "minutes": 2
+   },
+   {
+    "id": "_KzMiNEHCmo",
+    "title": "ごはんモグモグ 歌まとめ（15分）",
+    "channel": "しまじろうチャンネル公式",
+    "kind": "ja",
+    "minutes": 15
+   },
+   {
+    "id": "4cpyl0ffMJc",
+    "title": "やさいのうた",
+    "channel": "ボンボンアカデミー",
+    "kind": "ja",
+    "minutes": 2
+   },
+   {
+    "id": "dloZKuYRq0M",
+    "title": "ごはんの時間だよ",
+    "channel": "べべフィン Bebefinn",
+    "kind": "ja",
+    "minutes": 32
+   },
+   {
+    "id": "JW7jsp4lXG8",
+    "title": "ピンキッツとおいしくごはん（18分）",
+    "channel": "ピンキッツ（Pinkfong）",
+    "kind": "ja",
+    "minutes": 18
+   },
+   {
+    "id": "ohHYABXMqUQ",
+    "title": "Yes Yes Vegetables Song",
+    "channel": "Cocomelon",
+    "kind": "en",
+    "minutes": 4
+   },
+   {
+    "id": "frN3nvhIHUk",
+    "title": "Do You Like Broccoli Ice Cream?",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "QPKcMCHp6dE",
+    "title": "Yum Yum, Eat Healthy（18分）",
+    "channel": "Pinkfong",
+    "kind": "en",
+    "minutes": 18
+   },
+   {
+    "id": "4DLRPQzutzo",
+    "title": "朝ごはんのカフェジャズ＆ボサノバ",
+    "channel": "Cafe Music BGM channel",
+    "kind": "sound",
+    "minutes": 242
+   }
+  ],
+  "drive": [
+   {
+    "id": "CP5LXsc_Vp0",
+    "title": "はたらくくるま1",
+    "channel": "ボンボンアカデミー",
+    "kind": "ja",
+    "minutes": 3
+   },
+   {
+    "id": "nC0SFDae3yk",
+    "title": "はたらくくるま123メドレー（13分）",
+    "channel": "どこでもジャンボリー！",
+    "kind": "ja",
+    "minutes": 13
+   },
+   {
+    "id": "r2nX2ehkHC0",
+    "title": "バスにのって（ロングver.）",
+    "channel": "どこでもジャンボリー！",
+    "kind": "ja",
+    "minutes": 5
+   },
+   {
+    "id": "sDUgynDEq8I",
+    "title": "はたらくくるま 歌まとめ（16分）",
+    "channel": "しまじろうチャンネル公式",
+    "kind": "ja",
+    "minutes": 16
+   },
+   {
+    "id": "aJrcIYD7wpg",
+    "title": "線路はつづくよどこまでも",
+    "channel": "ボンボンアカデミー",
+    "kind": "ja",
+    "minutes": 4
+   },
+   {
+    "id": "W-CyyMVEn04",
+    "title": "定番の童謡メドレー（60分）",
+    "channel": "うたスタ",
+    "kind": "ja",
+    "minutes": 61
+   },
+   {
+    "id": "3kDsNuPpK_g",
+    "title": "The Wheels On The Bus ほか（55分）",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 55
+   },
+   {
+    "id": "e_04ZrNroTo",
+    "title": "Wheels on the Bus",
+    "channel": "Cocomelon",
+    "kind": "en",
+    "minutes": 4
+   },
+   {
+    "id": "BdrZWu2dZ4c",
+    "title": "Driving In My Car",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "Tz1V3E-OiC4",
+    "title": "Kids Songs That Go のりものの歌（44分）",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 44
+   },
+   {
+    "id": "KyBYuEgvFl0",
+    "title": "Baby Car",
+    "channel": "Pinkfong",
+    "kind": "en",
+    "minutes": 2
+   }
+  ],
+  "bath": [
+   {
+    "id": "YnfNgCB_fGU",
+    "title": "じゃぶじゃぶおふろ 歌まとめ（15分）",
+    "channel": "しまじろうチャンネル公式",
+    "kind": "ja",
+    "minutes": 15
+   },
+   {
+    "id": "3MP8oRa0XG0",
+    "title": "おふろどうぶつえん",
+    "channel": "シナぷしゅ公式",
+    "kind": "ja",
+    "minutes": 2
+   },
+   {
+    "id": "8tFdX_w4fJI",
+    "title": "おふろのうた（The Bath Song 日本語版）",
+    "channel": "Super Simple 日本語",
+    "kind": "ja",
+    "minutes": 2
+   },
+   {
+    "id": "ar_ZW5IVT3I",
+    "title": "ピンキッツといっしょにおふろ（16分）",
+    "channel": "ピンキッツ（Pinkfong）",
+    "kind": "ja",
+    "minutes": 17
+   },
+   {
+    "id": "penIQ-kEhMs",
+    "title": "あわあわいっぱい きらきらシャンプー",
+    "channel": "BabyBus ベビーバス",
+    "kind": "ja",
+    "minutes": 3
+   },
+   {
+    "id": "WRVsOCh907o",
+    "title": "Bath Song",
+    "channel": "Cocomelon",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "Q_0ALXqdzRM",
+    "title": "The Bubble Bath Song",
+    "channel": "Cocomelon",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "HVYXHMY7wvo",
+    "title": "The Bath Song",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "CG8F-6dZk8k",
+    "title": "The Bath Song ほか（55分）",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 55
+   },
+   {
+    "id": "bsbBma_94XA",
+    "title": "湯上がりの癒しBGM（水の音）",
+    "channel": "RELAX - 寝かしつけ 音楽",
+    "kind": "sound",
+    "minutes": 662
+   }
+  ],
+  "habit": [
+   {
+    "id": "Wxsnr7knQqI",
+    "title": "はみがきのうた",
+    "channel": "東京ハイジ",
+    "kind": "ja",
+    "minutes": 3
+   },
+   {
+    "id": "ZM1KL2lTjG0",
+    "title": "歯みがきのうた「イ〜ハ〜」みがきかた編",
+    "channel": "ライオン公式",
+    "kind": "ja",
+    "minutes": 3
+   },
+   {
+    "id": "wmezzTII8F0",
+    "title": "おきがえのうた",
+    "channel": "Super Simple 日本語",
+    "kind": "ja",
+    "minutes": 2
+   },
+   {
+    "id": "xeXkfAQgoBg",
+    "title": "お着替えできるよ",
+    "channel": "しまじろうチャンネル公式",
+    "kind": "ja",
+    "minutes": 1
+   },
+   {
+    "id": "z6A6PPWNw38",
+    "title": "おかたづけ（振り付き）",
+    "channel": "ボンボンアカデミー",
+    "kind": "ja",
+    "minutes": 2
+   },
+   {
+    "id": "j3I_R9x4ZeQ",
+    "title": "トイレのうた",
+    "channel": "ピンキッツ（Pinkfong）",
+    "kind": "ja",
+    "minutes": 2
+   },
+   {
+    "id": "wCio_xVlgQ0",
+    "title": "Brush Your Teeth",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "1vJVe5Byuv0",
+    "title": "This Is the Way",
+    "channel": "Cocomelon",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "1GDFa-nEzlg",
+    "title": "This Is The Way We Get Dressed",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "-jBfb33_KHU",
+    "title": "Put On Your Shoes",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "SFE0mMWbA-Y",
+    "title": "Clean Up Song",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   }
+  ],
+  "play": [
+   {
+    "id": "5bSLiLaNTP8",
+    "title": "手あそび歌メドレー 全19曲（36分）",
+    "channel": "ボンボンアカデミー",
+    "kind": "ja",
+    "minutes": 36
+   },
+   {
+    "id": "OVEYzxKl0kY",
+    "title": "しまじろうと踊ろう ダンスメドレー（22分）",
+    "channel": "しまじろうチャンネル公式",
+    "kind": "ja",
+    "minutes": 22
+   },
+   {
+    "id": "4ld10znrwpo",
+    "title": "からだ☆ダンダン（おかあさんといっしょ）",
+    "channel": "NHKエデュケーショナル",
+    "kind": "ja",
+    "minutes": 3
+   },
+   {
+    "id": "hVF__c2n2Ts",
+    "title": "げんこつ山のたぬきさん（振り付き）",
+    "channel": "ボンボンアカデミー",
+    "kind": "ja",
+    "minutes": 2
+   },
+   {
+    "id": "p-K_8gYyOSA",
+    "title": "グーチョキパーでなにつくろう",
+    "channel": "ボンボンアカデミー",
+    "kind": "ja",
+    "minutes": 4
+   },
+   {
+    "id": "GcMZRZqqKMY",
+    "title": "エビカニクス 英語版",
+    "channel": "ケロポンズ",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "eFRsJP73ODw",
+    "title": "英語のうたメドレー 全17曲",
+    "channel": "ボンボンアカデミー",
+    "kind": "en",
+    "minutes": 31
+   },
+   {
+    "id": "WX8HmogNyCY",
+    "title": "Head Shoulders Knees & Toes（だんだん速く）",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "M6LoRZsHMSs",
+    "title": "If You're Happy And You Know It",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "Zh2PalZFs0g",
+    "title": "Hokey Pokey",
+    "channel": "The Wiggles",
+    "kind": "en",
+    "minutes": 4
+   },
+   {
+    "id": "kDdg2M1_EuE",
+    "title": "The Alphabet Is So Much Fun（ABCの歌）",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   }
+  ],
+  "parent": [
+   {
+    "id": "_8ksOgWYleA",
+    "title": "カフェのジャズ＆ボサノバ（3.5時間）",
+    "channel": "Cafe Music BGM channel",
+    "kind": "sound",
+    "minutes": 219
+   },
+   {
+    "id": "Kt7LGYWr5P8",
+    "title": "ボサノバカフェ ギター＆ピアノ",
+    "channel": "Smooth Sound Café",
+    "kind": "sound",
+    "minutes": 185
+   },
+   {
+    "id": "Tq0IQq5Fjj8",
+    "title": "夜のゆったりジャズ",
+    "channel": "BGM channel",
+    "kind": "sound",
+    "minutes": 243
+   },
+   {
+    "id": "NKN6yZz0qls",
+    "title": "リラックス・ギターBGM",
+    "channel": "BGM channel",
+    "kind": "sound",
+    "minutes": 211
+   },
+   {
+    "id": "_fqRjfd8FlY",
+    "title": "心が落ち着くギター音楽と自然の風景",
+    "channel": "Maximumgroove",
+    "kind": "sound",
+    "minutes": 59
+   },
+   {
+    "id": "MYPVQccHhAQ",
+    "title": "Cozy Coffee Shop ピアノジャズ",
+    "channel": "Relaxing Jazz Piano",
+    "kind": "sound",
+    "minutes": 215
+   },
+   {
+    "id": "3NycM9lYdRI",
+    "title": "Relaxing Piano Music ピアノ曲",
+    "channel": "Soothing Relaxation",
+    "kind": "sound",
+    "minutes": 217
+   },
+   {
+    "id": "o8GrqUSdzi0",
+    "title": "ピアノと雨音（10時間）",
+    "channel": "Soothing Relaxation",
+    "kind": "sound",
+    "minutes": 603
+   },
+   {
+    "id": "kMAOey45mJI",
+    "title": "Music for Studying ピアノBGM",
+    "channel": "relaxdaily",
+    "kind": "sound",
+    "minutes": 124
+   },
+   {
+    "id": "rFZHOHl-L8A",
+    "title": "lofi hip hop radio（24時間ライブ）",
+    "channel": "Lofi Girl",
+    "kind": "sound",
+    "minutes": 0,
+    "live": true
+   }
+  ]
+ }
+}
