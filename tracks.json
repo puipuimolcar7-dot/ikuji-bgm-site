@@ -1,8 +1,36 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-23T09:00:00Z",
+ "updatedAt": "2026-10-24T03:00:00Z",
  "tracks": {
   "cry": [
+   {
+    "id": "K0ar8JLP538",
+    "title": "POISON イントロ10分ループ",
+    "channel": "Laugh",
+    "kind": "ja",
+    "minutes": 10
+   },
+   {
+    "id": "QM4trCohabo",
+    "title": "POISON 4時間ループ（広告なし）",
+    "channel": "pekigachannel",
+    "kind": "ja",
+    "minutes": 241
+   },
+   {
+    "id": "V1HCT9TqS2c",
+    "title": "【研音公式】POISONで赤ちゃんが泣き止む",
+    "channel": "Ken Net Channel 研音公式",
+    "kind": "ja",
+    "minutes": 12
+   },
+   {
+    "id": "4FAM-s3vSPY",
+    "title": "反町隆史「POISON」（公式音源）",
+    "channel": "反町隆史（Topic）",
+    "kind": "ja",
+    "minutes": 4
+   },
    {
     "id": "rrlAn7KEwns",
     "title": "はじまりぷしゅ（くり返し・広告なし）",
@@ -93,6 +121,41 @@
     "channel": "Xわが命TV",
     "kind": "sound",
     "minutes": 240
+   },
+   {
+    "id": "f_raDpgx_3M",
+    "title": "Hush Little Baby（英語の子守唄）",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "5BYOVTkZ9hs",
+    "title": "Rockabye Baby（歌つき）",
+    "channel": "Leigha Marina",
+    "kind": "en",
+    "minutes": 6
+   },
+   {
+    "id": "dh7LJDHFaqA",
+    "title": "You Are My Sunshine 子守唄ver.",
+    "channel": "The Hound + The Fox",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "Z2HR0VR5X2Q",
+    "title": "ブラームスの子守歌（セリーヌ・ディオン）",
+    "channel": "Céline Dion 公式",
+    "kind": "en",
+    "minutes": 4
+   },
+   {
+    "id": "hvarOXBDkqI",
+    "title": "ブラームスの子守歌（ヘイリー）",
+    "channel": "Decca Records",
+    "kind": "en",
+    "minutes": 1
    }
   ],
   "sleep": [
@@ -200,6 +263,55 @@
     "channel": "Relaxing White Noise",
     "kind": "sound",
     "minutes": 600
+   },
+   {
+    "id": "q29IkD-Xikw",
+    "title": "Rock a bye baby 子守唄（5時間）",
+    "channel": "Leigha Marina",
+    "kind": "en",
+    "minutes": 313
+   },
+   {
+    "id": "6PdStrcXOBc",
+    "title": "You Are My Sunshine 子守唄（8時間）",
+    "channel": "Sleepy Baby Club",
+    "kind": "en",
+    "minutes": 480
+   },
+   {
+    "id": "x8KR95A5CW0",
+    "title": "Hush Little Baby（2時間）",
+    "channel": "Wonderful Lullabies",
+    "kind": "en",
+    "minutes": 125
+   },
+   {
+    "id": "KlnOK-PlMvg",
+    "title": "Golden Slumbers 子守唄",
+    "channel": "MyVoxSongs",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "-6fV9X7MIIU",
+    "title": "Moon River 子守唄（1時間）",
+    "channel": "Dar Golan",
+    "kind": "en",
+    "minutes": 60
+   },
+   {
+    "id": "dtyhALmx4Xk",
+    "title": "ハワイの子守唄 Hawaiian Lullaby",
+    "channel": "Josh Tatofi",
+    "kind": "en",
+    "minutes": 4
+   },
+   {
+    "id": "U9mazu0wKXk",
+    "title": "ブラームスの子守歌 Nighty Night",
+    "channel": "Bebefinn",
+    "kind": "en",
+    "minutes": 3
    }
   ],
   "mood": [
@@ -286,6 +398,48 @@
     "channel": "Cocomelon",
     "kind": "en",
     "minutes": 58
+   },
+   {
+    "id": "mIBY-LQYkVA",
+    "title": "Baby Beluga（ラフィ）",
+    "channel": "Raffi 公式",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "JXOTmWl5t3A",
+    "title": "Bluey テーマソング",
+    "channel": "Bluey 公式",
+    "kind": "en",
+    "minutes": 1
+   },
+   {
+    "id": "GOwb9qsztyc",
+    "title": "Bluey The Lollipop Song",
+    "channel": "Bluey 公式",
+    "kind": "en",
+    "minutes": 1
+   },
+   {
+    "id": "OPgfpE-QzRg",
+    "title": "Itsy Bitsy Spider",
+    "channel": "Cocomelon",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "dDwZ9k23ZwU",
+    "title": "Wheels On The Bus",
+    "channel": "Little Baby Bum",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "GvHgU5k47ig",
+    "title": "Hot Potato（ウィグルズ）",
+    "channel": "The Wiggles",
+    "kind": "en",
+    "minutes": 2
    }
   ],
   "meal": [
@@ -358,6 +512,41 @@
     "channel": "Cafe Music BGM channel",
     "kind": "sound",
     "minutes": 242
+   },
+   {
+    "id": "KP69YPqHquY",
+    "title": "Pizza Party",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "tjT_nFtKTas",
+    "title": "Healthy Eating Song",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "ygdgrT6oSUk",
+    "title": "Eat Your Vegetables Song",
+    "channel": "Little Baby Bum",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "vo8HZ6cMsO4",
+    "title": "The Lunch Song",
+    "channel": "Cocomelon",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "fsQVfQt0HOk",
+    "title": "Breakfast Song",
+    "channel": "Cocomelon",
+    "kind": "en",
+    "minutes": 3
    }
   ],
   "drive": [
@@ -437,6 +626,41 @@
     "channel": "Pinkfong",
     "kind": "en",
     "minutes": 2
+   },
+   {
+    "id": "m2uTFF_3MaA",
+    "title": "Yellow Submarine（ビートルズ）",
+    "channel": "The Beatles 公式",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "5tXh_MfrMe0",
+    "title": "Life Is a Highway（映画カーズ）",
+    "channel": "Rascal Flatts",
+    "kind": "en",
+    "minutes": 5
+   },
+   {
+    "id": "t3tMvIedIgU",
+    "title": "Travel Song",
+    "channel": "The Singing Walrus",
+    "kind": "en",
+    "minutes": 5
+   },
+   {
+    "id": "q4_DfK-ZauQ",
+    "title": "Drive My Car",
+    "channel": "The Laurie Berkner Band",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "dQzsGeEUDVI",
+    "title": "Wheels On The Bus（ラフィ）",
+    "channel": "Raffi 公式",
+    "kind": "en",
+    "minutes": 2
    }
   ],
   "bath": [
@@ -509,6 +733,34 @@
     "channel": "RELAX - 寝かしつけ 音楽",
     "kind": "sound",
     "minutes": 662
+   },
+   {
+    "id": "Mh85R-S-dh8",
+    "title": "Rubber Duckie（セサミストリート）",
+    "channel": "Sesame Street",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "q4-OaO6tlLw",
+    "title": "Bath Song Splish Splash",
+    "channel": "Little Baby Bum",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "v5r4YNG6st0",
+    "title": "Rubber Duckie Bath Time Song",
+    "channel": "Cocomelon",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "qhuGQp1AkjQ",
+    "title": "Bath Song",
+    "channel": "Little Baby Bum",
+    "kind": "en",
+    "minutes": 2
    }
   ],
   "habit": [
@@ -586,6 +838,41 @@
     "id": "SFE0mMWbA-Y",
     "title": "Clean Up Song",
     "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "pSPdY0uPHC8",
+    "title": "Morning Routine Song",
+    "channel": "Little Baby Bum",
+    "kind": "en",
+    "minutes": 4
+   },
+   {
+    "id": "8lu587o8T3c",
+    "title": "The Hand Washing Song",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "K53J44ioDxI",
+    "title": "Good Morning It's Such A Beautiful Day",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "tVlcKp3bWH8",
+    "title": "Hello!（あいさつの歌）",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 1
+   },
+   {
+    "id": "pEx5entLOFQ",
+    "title": "Daily Routines Song",
+    "channel": "Noodle & Pals",
     "kind": "en",
     "minutes": 2
    }
@@ -667,6 +954,62 @@
     "channel": "Super Simple Songs",
     "kind": "en",
     "minutes": 2
+   },
+   {
+    "id": "XDJHcUkkjHA",
+    "title": "Wiggle, Freeze, Spin ダンス",
+    "channel": "Danny Go!",
+    "kind": "en",
+    "minutes": 16
+   },
+   {
+    "id": "6R0v0ovq1hs",
+    "title": "Dance Party! ダンスソング",
+    "channel": "Bounce Patrol",
+    "kind": "en",
+    "minutes": 4
+   },
+   {
+    "id": "FiXCxfWWwPo",
+    "title": "Dance Monkey（KIDZ BOP）",
+    "channel": "KIDZ BOP",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "iiiuFwh_MDM",
+    "title": "Shake It Off（KIDZ BOP）",
+    "channel": "KIDZ BOP",
+    "kind": "en",
+    "minutes": 4
+   },
+   {
+    "id": "ZhODBFQ2-bQ",
+    "title": "Five Little Monkeys",
+    "channel": "Super Simple Songs",
+    "kind": "en",
+    "minutes": 2
+   },
+   {
+    "id": "Z5zzZyNQBr0",
+    "title": "¡Buenos días!（スペイン語）",
+    "channel": "Grow Up Singing",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "4T74P6PK1Ao",
+    "title": "ABCの歌（スペイン語）",
+    "channel": "Lingokids en Español",
+    "kind": "en",
+    "minutes": 3
+   },
+   {
+    "id": "X6ZhYrV8TfY",
+    "title": "Los Pollitos Dicen（スペイン語）",
+    "channel": "Miss Vale",
+    "kind": "en",
+    "minutes": 1
    }
   ],
   "parent": [
@@ -740,6 +1083,55 @@
     "kind": "sound",
     "minutes": 0,
     "live": true
+   },
+   {
+    "id": "opTGVhIyjYQ",
+    "title": "ボサノバで聴く洋楽ヒット（3.5時間）",
+    "channel": "Music Brokers",
+    "kind": "en",
+    "minutes": 216
+   },
+   {
+    "id": "1mmxuuVmST4",
+    "title": "ノラ・ジョーンズ風 カフェミュージック",
+    "channel": "Cafe Music BGM channel",
+    "kind": "en",
+    "minutes": 156
+   },
+   {
+    "id": "sg9OsWVUIls",
+    "title": "洋楽アコースティックカバー 100曲",
+    "channel": "PMB Music",
+    "kind": "en",
+    "minutes": 238
+   },
+   {
+    "id": "6VAjXUC1ADo",
+    "title": "エド・シーラン風 アコースティック",
+    "channel": "StoryBeats",
+    "kind": "en",
+    "minutes": 182
+   },
+   {
+    "id": "bXABghLhGGQ",
+    "title": "エド・シーラン ソフトピアノ",
+    "channel": "Piano Pill",
+    "kind": "en",
+    "minutes": 36
+   },
+   {
+    "id": "yvhPcuqyIig",
+    "title": "フレンチカフェ アコーディオン",
+    "channel": "Cafe Music BGM channel",
+    "kind": "en",
+    "minutes": 243
+   },
+   {
+    "id": "yyDjIW1qklo",
+    "title": "ハワイアン カフェ ウクレレ",
+    "channel": "Cafe Music BGM channel",
+    "kind": "en",
+    "minutes": 217
    }
   ]
  }
